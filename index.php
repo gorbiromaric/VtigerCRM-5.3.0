@@ -564,6 +564,7 @@ else
 		$current_language = $default_language;
 	}
 }
+$current_language = 'fr_fr';
 $log->debug('current_language is: '.$current_language);
 
 //set module and application string arrays based upon selected language

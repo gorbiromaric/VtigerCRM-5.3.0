@@ -1,0 +1,12 @@
+1rst commit
+we must set the php for pdfmaker
+
+in php/php.ini do this
+ // change the following line from ...
+;extension=php_mbstring.dll
+// ... to
+extension=php_mbstring.dll
+
+after 1rst commit the application will work in french and the o-one's logo will be visible but the pdfMaker does  not work
+
+
