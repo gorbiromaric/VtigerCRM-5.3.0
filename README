@@ -1,4 +1,4 @@
-1rst commit
+1rst commit   ############
 we must set the php for pdfmaker
 
 in php/php.ini do this
@@ -9,4 +9,12 @@ extension=php_mbstring.dll
 
 after 1rst commit the application will work in french and the o-one's logo will be visible but the pdfMaker does  not work
 
+2nd commit ############
 
+Mettre le repertoire PDFMaker  dans le repertoire  modules
+
+Aller dans la fenetre configuration des modules dans l application et choisir Module personnalise
+Cliquez sur mise a jour du module pdfmaker et choisir PDFMakerFree_530.3.zip cliquer sur mise a jour
+je mettrai le fichier PDFMakerFree_530.3.zip dans le dossier 
+
+Pas besoin de configuration pour pdfmaker car les configurations faites se trouvent dans la base de donnee
