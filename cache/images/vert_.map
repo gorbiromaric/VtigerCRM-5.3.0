@@ -1,0 +1,14 @@
+<img src="cache/images/vert_" border="0" usemap="#cache/images/vert_">
+<map name="cache/images/vert_">
+	<area shape="rect" coords="43,42,59,117" href="index.php?module=Accounts&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner=Administrator &viewname=4" alt="Accounts=%d" title="Accounts=%d">
+	<area shape="rect" coords="91,42,107,117" href="index.php?module=Potentials&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner=Administrator &viewname=10" alt="Potentials=%d" title="Potentials=%d">
+	<area shape="rect" coords="138,42,154,117" href="index.php?module=Contacts&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner=Administrator &viewname=7" alt="Contacts=%d" title="Contacts=%d">
+	<area shape="rect" coords="186,42,201,117" href="index.php?module=Leads&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner=Administrator &viewname=1" alt="Leads=%d" title="Leads=%d">
+	<area shape="rect" coords="233,79,249,117" href="index.php?module=Quotes&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner=Administrator &viewname=16" alt="Quotes=%d" title="Quotes=%d">
+	<area shape="rect" coords="281,79,296,117" href="index.php?module=SalesOrder&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner=Administrator &viewname=26" alt="Sales Order=%d" title="Sales Order=%d">
+	<area shape="rect" coords="328,79,344,117" href="index.php?module=PurchaseOrder&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner=Administrator &viewname=25" alt="Purchase Order=%d" title="Purchase Order=%d">
+	<area shape="rect" coords="376,79,391,117" href="index.php?module=Invoice&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner=Administrator &viewname=21" alt="Invoice=%d" title="Invoice=%d">
+	<area shape="rect" coords="423,87,439,117" href="index.php?module=HelpDesk&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner=Administrator &viewname=13" alt="Trouble Tickets=%d" title="Trouble Tickets=%d">
+	<area shape="rect" coords="470,72,486,117" href="index.php?module=Calendar&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner=Administrator &viewname=19" alt="Calendar=%d" title="Calendar=%d">
+	<area shape="rect" coords="518,94,534,117" href="index.php?module=Campaigns&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner=Administrator &viewname=29" alt="Campaigns=%d" title="Campaigns=%d">
+</map>
